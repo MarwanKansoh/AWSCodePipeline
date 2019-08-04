@@ -1,5 +1,5 @@
 # CloudFormationTemplates
-An exceptionally basic pipeline with AWS CodeCommit for the code repository and AWS CodePipeline as a pipeline triggering AWS Cloudformation stacks. 
+A basic pipeline with AWS CodeCommit for the code repository and AWS CodePipeline as a pipeline triggering AWS Cloudformation stacks. 
 
 This Cloudformation template is usable in any account provided you have rights to create the below:
 - IAM roles
